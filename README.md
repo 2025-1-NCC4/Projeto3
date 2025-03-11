@@ -9,9 +9,9 @@
 
 ## Nome do Grupo
 
-## Integrantes: <a href="https://www.linkedin.com/in/jo%C3%A3o-paulo-souza-colombo-401012215/">João Paulo Souza Colombo</a>, <a href="https:">Leonardo Ferreira Da Silva</a>,<a href="https://www.linkedin.com/in/matheuszimmer/">Matheus Morais Zimmer</a>, <a href="https://www.linkedin.com/in/aleff-souza/">Aleff Silva Souza</a>
+## Integrantes: <a href="https://www.linkedin.com/in/jo%C3%A3o-paulo-souza-colombo-401012215/">João Paulo Souza Colombo</a>, <a href="https:">Leonardo Ferreira Da Silva</a>,<a href="https://www.linkedin.com/in/matheuszimmer/"> Matheus Morais Zimmer</a>, <a href="https://www.linkedin.com/in/aleff-souza/">Aleff Silva Souza</a>
 
-## Professores Orientadores: <a href="https://www.linkedin.com/in/professorrodnil/details/education/">Rodnil da Silva </a>, <a href="https://www.linkedin.com/in/paula-astorino-432b5812a/">Paula Sanchez Astorino</a>, <a href="https://www.linkedin.com/in/lucymari/">Lucy Mari Tabuti</a>, <a href="https://www.linkedin.com/in/eduardo-savino-gomes-77833a10/">Eduardo Savino Gomes
+## Professores Orientadores: <a href="https://www.linkedin.com/in/professorrodnil/details/education/">Rodnil da Silva</a>, <a href="https://www.linkedin.com/in/paula-astorino-432b5812a/">Paula Sanchez Astorino</a>, <a href="https://www.linkedin.com/in/lucymari/">Lucy Mari Tabuti</a>, <a href="https://www.linkedin.com/in/eduardo-savino-gomes-77833a10/">Eduardo Savino Gomes
 </a>
 
 ## Descrição
