@@ -24,6 +24,8 @@ O objetivo deste projeto é analisar a correlação entre o salário mínimo, co
 -Raiz<br>
 |-->documentos<br> 
   &emsp;|Entrega 1<br>
+    &emsp;|Entrega 2<br>
+      &emsp;|Entrega 3<br>
 |-->imagens<br>
 |-->src<br>
   &emsp;|-->Backend<br>
