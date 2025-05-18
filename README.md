@@ -55,4 +55,4 @@ library(Rcmdr)
 ```
 
 ## 📋 Licença/License
-Utilize o link <https://chooser-beta.creativecommons.org/> para fazer uma licença CC BY 4.0.
+Utilize o link <https://chooser-beta.creativecommons.org/> para fazer uma licença CC BY 4.0
