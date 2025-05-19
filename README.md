@@ -31,16 +31,38 @@ O objetivo deste projeto é analisar a correlação entre o salário mínimo, co
 ## 🛠 Estrutura de pastas
 
 -Raiz<br>
-|-->documentos<br> 
-  &emsp;|Entrega 1<br>
-    &emsp;|Entrega 2<br>
-      &emsp;|Entrega 3<br>
+|<br>
+|-->documentos<br>
+  &emsp;|-->Entrega 1<br>
+    &emsp;&emsp;|-->Analise Inferencial de Dados<br>
+    &emsp;&emsp;|-->Contabilidade & Financas<br>
+    &emsp;&emsp;|-->ES & AS<br>
+    &emsp;&emsp;|-->Projeto Interdisciplinar - Ciencia de Dados<br>
+  &emsp;|-->Entrega 2<br>
+    &emsp;&emsp;|-->Analise Inferencial de Dados<br>
+    &emsp;&emsp;|-->Contabilidade & Financas<br>
+    &emsp;&emsp;|-->ES & AS<br>
+    &emsp;&emsp;|-->Projeto Interdisciplinar - Ciencia de Dados<br>
+  &emsp;|-->Entrega 3<br>
+    &emsp;&emsp;|-->Analise Inferencial de Dados<br>
+    &emsp;&emsp;|-->Contabilidade & Financas<br>
+    &emsp;&emsp;|-->ES & AS<br>
+    &emsp;&emsp;|-->Projeto Interdisciplinar - Ciencia de Dados<br>
+  &emsp;|Documento - Projeto de Extensão - COM Empresa.docx<br>
+  readme.md<br>
 |-->imagens<br>
 |-->src<br>
-  &emsp;|-->Backend<br>
-  &emsp;|-->Frontend<br>
-|readme.md<br>
+  &emsp;|-->Entrega 1<br>
+    &emsp;&emsp;|-->Backend<br>
+    &emsp;&emsp;|-->Frontend<br>
+  &emsp;|-->Entrega 2<br>
+    &emsp;&emsp;|-->Backend<br>
+    &emsp;&emsp;|-->Frontend<br>
+  &emsp;|-->Entrega 3<br>
+    &emsp;&emsp;|-->Backend<br>
+    &emsp;&emsp;|-->Frontend<br>
 |.gitignore<br>
+|readme.md<br>
 
 ## 🛠 Instalação
 
