@@ -37,23 +37,27 @@ O objetivo deste projeto é analisar a correlação entre o salário mínimo, co
 
 ## 💻 Configuração para Desenvolvimento
 
-Para abrir este projeto você necessita das seguintes ferramentas:
+### Streamlit
 
--<a href="https://www.r-project.org/">R</a><br>
--<a href="https://posit.co/download/rstudio-desktop/">RStudio</a><br>
--<a href="https://www.python.org/">Python</a><br>
--<a href="https://www.microsoft.com/pt-br/power-platform/products/power-bi">Power BI</a>
+ Foi utilizado para executar e demonstrar de forma clara os gráficos e previsões, permitindo que qualquer pessoa interessada possa analisá-los.
 
+ 
+1. Acesse no documento do projeto a pasta:
 
-
-### RStudio
-```sh
-install.packages("Rcmdr")
-library(Rcmdr)
 ```
-### Python
-```sh
-!pip install python-bcb
+cd C:\Users\JoaoP\Documents\GitHub\Projeto3\src\Entrega 4\Frontend
+```
+2. Abra a pasta via VS Code:
+```
+code .
+```
+3. Execute o arquivo requirements.txt, onde serão baixadas todas as dependências necessárias para executar o código:
+```
+pip install -r requirements.txt
+```
+4. Após isso, utilize o comando de inicialização do próprio Streamlit:
+```
+streamlit run nome_do_arquivo.py
 ```
 
 ## 📋 Licença/License
