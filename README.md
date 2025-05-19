@@ -16,6 +16,11 @@
 
 ## Descrição
 
+<p align="center">
+<img src="https://sdmntprnorthcentralus.oaiusercontent.com/files/00000000-3920-622f-a5d6-e7613516d995/raw?se=2025-05-19T01%3A50%3A03Z&sp=r&sv=2024-08-04&sr=b&scid=00000000-0000-0000-0000-000000000000&skoid=bbd22fc4-f881-4ea4-b2f3-c12033cf6a8b&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-05-18T23%3A31%3A59Z&ske=2025-05-19T23%3A31%3A59Z&sks=b&skv=2024-08-04&sig=8aWcMT1F9UXc/v3qgAqTZcKdUSNR6a1XaqO48JS/TOw%3D" alt="Endivida0" border="0">
+  <a href="https://openai.com/policies/terms-of-use">Imagem gerada por IA via ChatGPT (OpenAI), 2025. Uso conforme diretrizes da OpenAI.</a>
+</p>
+
 
 O objetivo deste projeto é analisar a correlação entre o salário mínimo, consumo e o endividamento das famílias no Brasil, utilizando dados do Banco Central sobre salário mínimo, taxa de variação do consumo e endividamento familiar. A pesquisa visa entender como as variações econômicas influenciam o consumo e o nível de endividamento das famílias.
 
