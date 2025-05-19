@@ -62,3 +62,16 @@ streamlit run nome_do_arquivo.py
 
 ## 📋 Licença/License
 Utilize o link <https://chooser-beta.creativecommons.org/> para fazer uma licença CC BY 4.0
+
+## 🎓 Referências
+
+Aqui estão as referências usadas no projeto.
+
+1. <https://github.com/iuricode/readme-template>
+2. <https://github.com/gabrieldejesus/readme-model>
+3. <https://chooser-beta.creativecommons.org/>
+4. <https://www.bcb.gov.br/>
+5. <https://streamlit.io/>
+6. <https://docs.python.org/3/>
+7. <https://plotly.com/python/>
+8. <https://docs.streamlit.io/>
